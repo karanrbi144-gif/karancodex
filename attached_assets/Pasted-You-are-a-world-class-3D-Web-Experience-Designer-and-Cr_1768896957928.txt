@@ -1,0 +1,194 @@
+You are a world-class 3D Web Experience Designer and Creative Technologist.
+
+Goal:
+Recreate the EXACT experience, scroll behavior, depth, motion, and premium feel of https://portavia.framer.website/
+but fully customized for my personal brand and business mindset.
+
+Core Principles:
+- Cinematic 3D scrolling
+- Depth-based parallax
+- Smooth inertia scrolling
+- Premium dark futuristic theme
+- Business-focused storytelling
+- Not flashy, but powerful and confident
+
+Technology Feel (Design only, not code):
+- Framer-style 3D canvas
+- Three.js inspired camera motion
+- GSAP-like scroll timelines
+- Physics-based easing
+- GPU-accelerated motion
+
+Every scroll must feel like:
+“User is travelling through my journey, vision, and impact.”
+🚀 HERO SECTION – ANTIGRAVITY PROMPT
+diff
+Copy code
+Create a hero section with a floating 3D object (abstract tech orb / futuristic device).
+
+Camera Behavior:
+- Camera slowly rotates around the 3D model on scroll
+- Object reacts slightly to mouse movement
+- Light reflections feel premium and real
+
+Hero Text (Exact Copy):
+Main headline:
+"I am not only a developer,
+I develop businesses."
+
+Subtext:
+"I build scalable digital products, systems, and experiences that turn ideas into revenue."
+
+CTA Buttons:
+- "Build With Me"
+- "See My Work"
+
+Typography:
+- Bold, modern, minimal
+- Large letter spacing
+- Confident tone
+
+Background:
+- Dark gradient (black → deep blue → purple)
+- Subtle particles or fog
+- No distractions
+
+Emotion:
+Power, confidence, leadership, vision.
+🌀 SCROLL EXPERIENCE PROMPT (MOST IMPORTANT)
+sql
+Copy code
+Design a scroll-based storytelling experience.
+
+On every scroll:
+- Camera moves in 3D space
+- Sections fade in with depth
+- Content appears as if placed in 3D layers
+
+Scrolling Rules:
+- No sudden jumps
+- Inertia-based smooth scrolling
+- Scroll controls the camera, not just page position
+
+Transitions:
+- Zoom in → rotate → slide sideways → descend
+- Each section feels like entering a new dimension
+
+User must feel:
+"I am exploring a premium digital universe."
+🧩 ABOUT SECTION – BUSINESS DEVELOPER IDENTITY
+diff
+Copy code
+Create an About section that breaks the traditional portfolio format.
+
+Layout:
+- Split 3D scene
+- Left: floating text panels
+- Right: subtle 3D background object
+
+Content Tone:
+Not a job seeker.
+Not a freelancer.
+A business problem solver.
+
+Text Copy:
+"I don’t just write code.
+I understand products, users, and growth.
+I help businesses scale using technology."
+
+Visual Style:
+- Cards floating in 3D space
+- Soft glow edges
+- Depth shadows
+🛠️ SERVICES SECTION – VALUE DRIVEN (NOT TECH LIST)
+diff
+Copy code
+Design services as floating 3D cards arranged in space.
+
+Each card reveals on scroll with rotation.
+
+Service Titles:
+- Product Engineering
+- Startup MVP Development
+- Business Automation
+- Mobile & Web Platforms
+- AI & Smart Systems
+
+Each service card should:
+- Slightly rotate on hover
+- Feel like a premium object
+- Animate independently
+
+No boring icons.
+Use abstract 3D visuals.
+🧪 PROJECTS SECTION – PORTAVIA STYLE SHOWCASE
+vbnet
+Copy code
+Create a cinematic project showcase.
+
+Behavior:
+- Horizontal scrolling controlled by vertical scroll
+- Projects appear as floating screens in 3D space
+- Each project rotates slightly when centered
+
+Each project includes:
+- Title
+- Short impact line (business result focused)
+- Tech hidden until interaction
+
+Tone:
+"I deliver results, not just apps."
+🌐 EXPERIENCE TIMELINE – 3D JOURNEY
+diff
+Copy code
+Design a vertical 3D timeline.
+
+Timeline Behavior:
+- User scrolls downward
+- Camera follows timeline path
+- Milestones appear as floating nodes
+
+Timeline Content:
+- Software Developer → Product Builder → Business Developer
+
+Each milestone:
+- Has depth
+- Soft glowing connectors
+- Minimal text
+📞 CONTACT SECTION – PREMIUM CLOSING
+vbnet
+Copy code
+Create a minimal yet powerful closing section.
+
+Background:
+- Calm dark gradient
+- Subtle animated particles
+
+Text:
+"Let’s build something that grows."
+
+CTA:
+- Contact Me
+- Start a Project
+
+Interaction:
+- Button slightly floats
+- Gentle glow on hover
+🎨 GLOBAL DESIGN RULES (VERY IMPORTANT)
+diff
+Copy code
+Design Rules:
+- No sharp animations
+- No cheap effects
+- Every motion must feel intentional
+- Fewer elements, more impact
+
+Color Palette:
+- Black
+- Deep blue
+- Purple accents
+- Soft white text
+
+Sound (Optional):
+- Soft ambient hover sound
+- No distraction
