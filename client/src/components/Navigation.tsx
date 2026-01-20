@@ -36,7 +36,7 @@ export function Navigation() {
     >
       <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
         <div className="text-2xl font-bold font-display tracking-widest text-white cursor-pointer" onClick={() => window.scrollTo({top: 0, behavior: 'smooth'})}>
-          DEV<span className="text-primary">.OS</span>
+          Karan<span className="text-primary">Codex</span>
         </div>
 
         {/* Desktop Nav */}
